@@ -2,7 +2,7 @@
   "name": "blog-graphql",
   "version": "1.0.0",
   "description": "This is a example to api in graphql ",
-  "main": "app/app.js",
+  "main": "index.js",
   "author": "Mikee Rmz",
   "license": "MIT",
   "scripts": {
