@@ -1,0 +1,28 @@
+{
+  "name": "blog-graphql",
+  "version": "1.0.0",
+  "description": "This is a example to api in graphql ",
+  "main": "app/app.js",
+  "author": "Mikee Rmz",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app/app.js"
+  },
+  "engine": {
+    "node": ">=8.3.0"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "cloudinary": "^1.13.2",
+    "dotenv": "^7.0.0",
+    "graphql-import": "^0.7.1",
+    "graphql-tools": "^4.0.4",
+    "graphql-yoga": "^1.17.4",
+    "jest": "^24.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.19",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {}
+}
